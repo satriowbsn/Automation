@@ -13,7 +13,7 @@ ${SiteUrl}       https://stg.bo.haloretail.halosis.cloud/index.php?r=site/login
 ${Username}     admin1@tehtarik.com
 ${Password}     123456
 
-
+# Tes Tambah
 * Keywords * 
 #Feel free for add any Keywords here
 Open page
